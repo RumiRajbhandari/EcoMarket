@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eco Market</string>
+    <string name="search">What are you searching for?..</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="choose_weight">select weight</string>
+    <string name="hint_nameoforg">Name of organization</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_signup">Sign up</string>
+    <string name="btn_register">Register</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_link_to_reg">Not Registered?Sign Up</string>
+    <string name="btn_link_to_login">Registered Already?Log In</string>
+    <string name="title_activity_upload_product">Upload Product</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="weight_array">
+        <item>5kg</item>
+        <item>6kg</item>
+        <item>7kg</item>
+        <item>8kg</item>
+        <item>9kg</item>
+        <item>10kg</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <group android:checkableBehavior="all">
+
+
+
+    <item
+        android:title=""/>
+
+    <item
+        android:title=""
+
+
+        />
+    <item
+        android:title=""
+
+        />
+        <item
+            android:title=""
+
+            />
+
+    </group>
+
+    <item android:id="@+id/Home1"
+        android:title="HOME"
+        android:icon="@drawable/home"
+
+        />
+
+    <item android:id="@+id/AboutUs"
+        android:title="HOME AND LIVING"
+
+
+        ></item>
+    <!--<item android:id="@+id/messages"-->
+        <!--android:title="MEN"-->
+        <!--android:icon="@drawable/man"-->
+        <!--&gt;</item>-->
+
+    <!--<item android:id="@+id/Services"-->
+        <!--android:title="WOMEN"-->
+        <!--android:icon="@drawable/avatar"-->
+
+
+        <!--/>-->
+
+
+    <!--<item android:id="@+id/Proceduer"-->
+        <!--android:title="ELECTRONICS"-->
+        <!--android:icon="@drawable/battipng"-->
+        <!--/>-->
+    <!--<item android:id="@+id/RecentJobs"-->
+        <!--android:title="KIDS"-->
+        <!--android:icon="@drawable/baby"-->
+
+        <!--/>-->
+    <!--<item android:id="@+id/Gallery"-->
+        <!--android:title="HEALTH AND FITNESS"-->
+        <!--android:icon="@drawable/healthpng"-->
+
+        <!--/>-->
+    <item android:id="@+id/ContactUs"
+        android:title="ACTIVITIES"
+
+        />
+
+</menu>
