@@ -28,6 +28,11 @@ public class LogInActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_log_in);
 
+        Toolbar toolbar=(Toolbar)findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(false);
+        getSupportActionBar().setTitle(Html.fromHtml("<font color='#ffffff'>Eco Market</font>"));
+
         email=(EditText)findViewById(R.id.txt_email);
         password=(EditText)findViewById(R.id.txt_password);
         login=(Button)findViewById(R.id.btn_login);

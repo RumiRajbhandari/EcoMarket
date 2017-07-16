@@ -31,7 +31,8 @@
         />
 
     <item android:id="@+id/AboutUs"
-        android:title="HOME AND LIVING"
+        android:title="LogIn As Seller"
+
 
 
         ></item>
@@ -63,7 +64,7 @@
 
         <!--/>-->
     <item android:id="@+id/ContactUs"
-        android:title="ACTIVITIES"
+        android:title="Contact Us"
 
         />
 

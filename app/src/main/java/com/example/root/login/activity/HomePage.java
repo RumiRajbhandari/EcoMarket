@@ -18,6 +18,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import com.daimajia.slider.library.SliderLayout;
 import com.daimajia.slider.library.SliderTypes.BaseSliderView;
@@ -170,5 +171,7 @@ public class HomePage extends AppCompatActivity implements BaseSliderView.OnSlid
     public void onSliderClick(BaseSliderView slider) {
 
     }
+
+
 }
 
